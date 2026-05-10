@@ -13,7 +13,7 @@ st.title("Inditex Strategic Analysis (2017–2025)")
 st.subheader("From Fast Fashion Giant to Premium-Digital Retail Model")
 
 # CARGAR DATOS
-df = pd.read_excel("inditex.xlsx")
+df = pd.read_excel("Inditex.xlsx")
 
 # MOSTRAR DATASET
 st.header("Dataset Overview")
