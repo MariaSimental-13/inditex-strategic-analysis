@@ -77,13 +77,17 @@ Between 2017 and 2020, Inditex didn't just dominate the market: it dictated the 
 
 During this period, flagship brands like Zara consolidated their leadership through an aggressive expansion strategy built on four critical pillars:
 
-**Precision Logistics** An inventory turnover model that transformed scarcity into desire.
+**Precision Logistics** 
+An inventory turnover model that transformed scarcity into desire.
 
-**Physical Omnipresence** The strategic deployment of flagship stores across the world's most vital commercial arteries.
+**Physical Omnipresence** 
+The strategic deployment of flagship stores across the world's most vital commercial arteries.
 
-**Trend Democratization** The unprecedented ability to translate runway hype to the streets in record time.
+**Trend Democratization** 
+The unprecedented ability to translate runway hype to the streets in record time.
 
-**Aspirational Positioning** Accessible fashion backed by a visual narrative mirroring the luxury segment.
+**Aspirational Positioning** 
+Accessible fashion backed by a visual narrative mirroring the luxury segment.
 
 At this point in its history, the capillarity of its physical stores constituted one of the most solid competitive barriers within the global fast-fashion industry.
 """)
@@ -152,19 +156,25 @@ Starting in 2020, the global retail landscape underwent an unprecedented structu
 
 The meteoric rise of new paradigms forced traditional players to question their very existence.
 
-**E-commerce Hegemony** The transition from a mere purchasing option to a lifestyle ecosystem.
+**E-commerce Hegemony** 
+The transition from a mere purchasing option to a lifestyle ecosystem.
 
-**The Ultra-Fast Fashion Threat** The emergence of competitors like Shein, capable of operating at disruptive speeds and volumes.
+**The Ultra-Fast Fashion Threat** 
+The emergence of competitors like Shein, capable of operating at disruptive speeds and volumes.
 
-**Macroeconomic Pressure** Persistent inflation that redefined profit margins and consumer behavior.
+**Macroeconomic Pressure** 
+Persistent inflation that redefined profit margins and consumer behavior.
 
 Inditex’s response was not resistance, but evolution.
 
-**Physical Footprint Optimization** A strategic pruning of points of sale to prioritize quality over quantity.
+**Physical Footprint Optimization** 
+A strategic pruning of points of sale to prioritize quality over quantity.
 
-**Omnichannel Shielding** Total integration between physical and digital stock.
+**Omnichannel Shielding** 
+Total integration between physical and digital stock.
 
-**Ascent to the Premium Segment** A brand repositioning aimed at distancing itself from the commoditization of cheap fashion.
+**Ascent to the Premium Segment** 
+A brand repositioning aimed at distancing itself from the commoditization of cheap fashion.
 """)
 
 # ============================================
@@ -306,11 +316,14 @@ Despite an aggressive reduction in its global store network between 2019 and 202
 
 This phenomenon reveals a profound shift in the operational paradigm:
 
-**Digital Monetization** The algorithm now carries as much weight as the storefront.
+**Digital Monetization** 
+The algorithm now carries as much weight as the storefront.
 
-**Supply Chain Efficiency** A shorter, more local, and highly reactive value chain.
+**Supply Chain Efficiency** 
+A shorter, more local, and highly reactive value chain.
 
-**Brick-and-Mortar Independence** Growth is no longer proportional to square footage, but to brand relevance.
+**Brick-and-Mortar Independence** 
+Growth is no longer proportional to square footage, but to brand relevance.
 
 The company appears to be transitioning from a traditional fast-fashion model toward a retail strategy that is more efficient, digital, and oriented toward premium segments.
 """)
