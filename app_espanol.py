@@ -9,6 +9,38 @@ st.set_page_config(
 )
 
 # =========================
+# CUSTOM STYLE
+# =========================
+
+st.markdown("""
+<style>
+
+.stApp {
+    background-color: #F5F1EB;
+}
+
+h1, h2, h3 {
+    color: #2B2B2B;
+}
+
+[data-testid="stMetricValue"] {
+    color: #8C5E3C;
+    font-size: 32px;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #5A5A5A;
+    font-size: 16px;
+}
+
+</style>
+""", unsafe_allow_html=True)
+
+# =========================
+# TÍTULO PRINCIPAL
+# =========================
+
+# =========================
 # TÍTULO PRINCIPAL
 # =========================
 
