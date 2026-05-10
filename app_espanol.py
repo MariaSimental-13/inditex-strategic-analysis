@@ -42,6 +42,7 @@ section.main > div {
 [data-testid="stMetricValue"] {
     color: #8C5E3C;
     font-size: 32px;
+    font-weight: 700;
 }
 
 [data-testid="stMetricLabel"] {
@@ -59,7 +60,9 @@ section.main > div {
 st.title("Inditex: La Metamorfosis del Valor (2017–2025)")
 st.subheader("Del dominio del fast fashion hacia un ecosistema premium-digital")
 
-st.caption("Fashion Intelligence • Retail Transformation • Consumer Behavior Analysis")
+st.caption(
+    "Fashion Intelligence • Retail Transformation • Consumer Behavior Analysis"
+)
 
 st.markdown("<br><br>", unsafe_allow_html=True)
 
@@ -72,21 +75,21 @@ st.markdown("""
 
 Entre 2017 y 2020, Inditex no solo dominó el mercado: dictó las reglas del consumo global.
 
-Durante este periodo, marcas insignia como Zara consolidaron su liderazgo mediante una estrategia de expansión agresiva fundamentada en cuatro pilares críticos:
+Durante este periodo, marcas insignia como Zara consolidaron su liderazgo mediante una estrategia de expansión agresiva fundamentada en cuatro pilares críticos.
 
-### Logística de precisión
+**Logística de precisión**  
 Un modelo de rotación de inventario que transformó la escasez en deseo.
 
-### Omnipresencia física
+**Omnipresencia física**  
 El despliegue de una red de flagships en las arterias comerciales más estratégicas del mundo.
 
-### Democratización de la tendencia
+**Democratización de la tendencia**  
 La capacidad inédita de trasladar el hype de las pasarelas al asfalto en tiempo récord.
 
-### Posicionamiento aspiracional
+**Posicionamiento aspiracional**  
 Moda accesible respaldada por una narrativa visual cercana al lujo.
 
-En este punto de su historia, la capilaridad de sus tiendas físicas constituía una de las barreras de entrada más sólidas frente a sus competidores.
+En este punto de su historia, la capilaridad de sus tiendas físicas constituía una de las barreras competitivas más sólidas dentro de la industria global del fast fashion.
 """)
 
 # ============================================
@@ -150,26 +153,26 @@ st.markdown("""
 
 A partir de 2020, el tablero del retail global sufrió una sacudida estructural sin precedentes.
 
-El ascenso meteórico de nuevos paradigmas obligó a los jugadores tradicionales a cuestionar su propia existencia:
+El ascenso meteórico de nuevos paradigmas obligó a los jugadores tradicionales a cuestionar su propia existencia.
 
-### La hegemonía del E-commerce
+**La hegemonía del E-commerce**  
 El paso de una opción de compra a un ecosistema de vida.
 
-### La amenaza del Ultra-Fast Fashion
+**La amenaza del Ultra-Fast Fashion**  
 El surgimiento de competidores como Shein, capaces de operar a velocidades y volúmenes disruptivos.
 
-### Presión macroeconómica
+**Presión macroeconómica**  
 Una inflación persistente que redefinió los márgenes de beneficio y el comportamiento del consumidor.
 
-La respuesta de Inditex no fue la resistencia, sino la evolución:
+La respuesta de Inditex no fue la resistencia, sino la evolución.
 
-### Optimización de huella física
+**Optimización de huella física**  
 Una poda estratégica de puntos de venta para priorizar calidad sobre cantidad.
 
-### Blindaje omnicanal
+**Blindaje omnicanal**  
 La integración total entre stock físico y digital.
 
-### Ascenso al segmento Premium
+**Ascenso al segmento premium**  
 Un reposicionamiento de marca que busca distanciarse de la comoditización de la moda barata.
 """)
 
@@ -310,15 +313,15 @@ st.markdown("""
 
 A pesar de una reducción agresiva en su red global de tiendas entre 2019 y 2025, los indicadores clave — ingresos, EBITDA y rentabilidad — muestran una tendencia ascendente.
 
-Este fenómeno revela un cambio profundo de paradigma operativo:
+Este fenómeno revela un cambio profundo de paradigma operativo.
 
-### Monetización digital
+**Monetización digital**  
 El algoritmo ahora pesa tanto como el escaparate.
 
-### Eficiencia de suministro
+**Eficiencia de suministro**  
 Una cadena de valor más corta, local y reactiva.
 
-### Independencia del ladrillo
+**Independencia del ladrillo**  
 El crecimiento ya no es proporcional a los metros cuadrados, sino a la relevancia de marca.
 
 La compañía parece estar transitando desde un modelo tradicional de fast fashion hacia una estrategia retail más eficiente, digital y orientada a segmentos premium.
@@ -337,7 +340,7 @@ st.markdown("""
 
 Si bien Inditex fue uno de los arquitectos del concepto fast fashion, hoy su identidad parece desplazarse hacia un territorio intermedio dentro del retail global.
 
-El incremento en precios, un branding más sofisticado y la reducción de tiendas físicas sugieren un modelo híbrido que busca posicionarse en un punto ciego para sus competidores:
+El incremento en precios, un branding más sofisticado y la reducción de tiendas físicas sugieren un modelo híbrido que busca posicionarse en un punto ciego para sus competidores.
 
 - Más ágil que el lujo tradicional.
 - Más exclusivo que el ultra-fast fashion de bajo coste.
