@@ -50,6 +50,17 @@ section.main > div {
     font-size: 16px;
 }
 
+p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #2B2B2B;
+}
+
+ul {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
 </style>
 """, unsafe_allow_html=True)
 
@@ -75,28 +86,27 @@ st.markdown("""
 
 Between 2017 and 2020, Inditex didn't just dominate the market: it dictated the rules of global consumption.
 
-During this period, flagship brands like Zara consolidated their leadership through an aggressive expansion strategy built on four critical pillars:
+During this period, flagship brands like Zara consolidated their leadership through an aggressive expansion strategy built on four critical pillars.
 
-**Precision Logistics** 
-An inventory turnover model that transformed scarcity into desire.
+<p><strong>Precision Logistics</strong><br>
+An inventory turnover model that transformed scarcity into desire.</p>
 
-**Physical Omnipresence** 
-The strategic deployment of flagship stores across the world's most vital commercial arteries.
+<p><strong>Physical Omnipresence</strong><br>
+The strategic deployment of flagship stores across the world's most vital commercial arteries.</p>
 
-**Trend Democratization** 
-The unprecedented ability to translate runway hype to the streets in record time.
+<p><strong>Trend Democratization</strong><br>
+The unprecedented ability to translate runway hype to the streets in record time.</p>
 
-**Aspirational Positioning** 
-Accessible fashion backed by a visual narrative mirroring the luxury segment.
+<p><strong>Aspirational Positioning</strong><br>
+Accessible fashion backed by a visual narrative mirroring the luxury segment.</p>
 
 At this point in its history, the capillarity of its physical stores constituted one of the most solid competitive barriers within the global fast-fashion industry.
-""")
+""", unsafe_allow_html=True)
 
 # ============================================
 # LOAD DATA
 # ============================================
 
-# Note: Ensure your column names in the Excel file match or update them here
 df = pd.read_excel("Inditex.xlsx")
 
 # ============================================
@@ -142,7 +152,7 @@ with col3:
     )
 
 # ============================================
-# INDUSTRIAL TRANSFORMATION
+# INDUSTRY TRANSFORMATION
 # ============================================
 
 st.divider()
@@ -152,30 +162,30 @@ st.markdown("""
 
 ## From Retail Inertia to Digital Ecosystem Agility
 
-Starting in 2020, the global retail landscape underwent an unprecedented structural shift. 
+Starting in 2020, the global retail landscape underwent an unprecedented structural shift.
 
 The meteoric rise of new paradigms forced traditional players to question their very existence.
 
-**E-commerce Hegemony** 
-The transition from a mere purchasing option to a lifestyle ecosystem.
+<p><strong>E-commerce Hegemony</strong><br>
+The transition from a mere purchasing option to a lifestyle ecosystem.</p>
 
-**The Ultra-Fast Fashion Threat** 
-The emergence of competitors like Shein, capable of operating at disruptive speeds and volumes.
+<p><strong>The Ultra-Fast Fashion Threat</strong><br>
+The emergence of competitors like Shein, capable of operating at disruptive speeds and volumes.</p>
 
-**Macroeconomic Pressure** 
-Persistent inflation that redefined profit margins and consumer behavior.
+<p><strong>Macroeconomic Pressure</strong><br>
+Persistent inflation that redefined profit margins and consumer behavior.</p>
 
 Inditex’s response was not resistance, but evolution.
 
-**Physical Footprint Optimization** 
-A strategic pruning of points of sale to prioritize quality over quantity.
+<p><strong>Physical Footprint Optimization</strong><br>
+A strategic pruning of points of sale to prioritize quality over quantity.</p>
 
-**Omnichannel Shielding** 
-Total integration between physical and digital stock.
+<p><strong>Omnichannel Shielding</strong><br>
+Total integration between physical and digital stock.</p>
 
-**Ascent to the Premium Segment** 
-A brand repositioning aimed at distancing itself from the commoditization of cheap fashion.
-""")
+<p><strong>Ascent to the Premium Segment</strong><br>
+A brand repositioning aimed at distancing itself from the commoditization of cheap fashion.</p>
+""", unsafe_allow_html=True)
 
 # ============================================
 # REVENUE CHART
@@ -312,21 +322,21 @@ st.markdown("""
 
 ## Decoupling Physical Presence from Financial Performance
 
-Despite an aggressive reduction in its global store network between 2019 and 2025, key indicators—revenue, EBITDA, and profitability—show an upward trend.
+Despite an aggressive reduction in its global store network between 2019 and 2025, key indicators — revenue, EBITDA, and profitability — continue showing upward momentum.
 
-This phenomenon reveals a profound shift in the operational paradigm:
+This phenomenon reveals a profound operational paradigm shift.
 
-**Digital Monetization** 
-The algorithm now carries as much weight as the storefront.
+<p><strong>Digital Monetization</strong><br>
+The algorithm now carries as much weight as the storefront.</p>
 
-**Supply Chain Efficiency** 
-A shorter, more local, and highly reactive value chain.
+<p><strong>Supply Chain Efficiency</strong><br>
+A shorter, more local, and highly reactive value chain.</p>
 
-**Brick-and-Mortar Independence** 
-Growth is no longer proportional to square footage, but to brand relevance.
+<p><strong>Brick-and-Mortar Independence</strong><br>
+Growth is no longer proportional to square footage, but to brand relevance.</p>
 
-The company appears to be transitioning from a traditional fast-fashion model toward a retail strategy that is more efficient, digital, and oriented toward premium segments.
-""")
+The company appears to be transitioning from a traditional fast-fashion structure toward a more efficient, digital, and premium-oriented retail strategy.
+""", unsafe_allow_html=True)
 
 # ============================================
 # FINAL STRATEGIC QUESTION
@@ -339,19 +349,19 @@ st.markdown("""
 
 ## The Search for a Hybrid Equilibrium
 
-While Inditex was one of the architects of the fast-fashion concept, its identity today seems to be moving toward a middle ground within global retail.
+While Inditex was one of the architects of the fast-fashion concept, its identity today appears to be moving toward a hybrid territory within global retail.
 
-Rising price points, more sophisticated branding, and the reduction of physical stores suggest a hybrid model seeking to position itself in a blind spot for its competitors:
+Rising price points, more sophisticated branding, and the reduction of physical stores suggest a strategic repositioning.
 
-- **More agile** than traditional luxury.
-- **More exclusive** than low-cost ultra-fast fashion.
+- More agile than traditional luxury.
+- More exclusive than low-cost ultra-fast fashion.
 
-This metamorphosis creates a strategic competitive tension where the battle is no longer fought solely on price, but on:
+This transformation creates a new competitive tension where the battle is no longer fought solely on price, but on:
 
 - Value perception
 - Digital convenience
 - Brand positioning
 - Consumer loyalty
 
-Structurally, Inditex appears to be moving away from selling volume to begin selling **efficient prestige**.
-""")
+Structurally, Inditex appears to be moving away from selling volume and toward selling efficient prestige.
+""", unsafe_allow_html=True)
