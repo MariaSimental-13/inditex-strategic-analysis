@@ -19,6 +19,10 @@ st.markdown("""
     background-color: #F5F1EB;
 }
 
+html, body, [class*="css"] {
+    color: #2B2B2B;
+}
+
 h1, h2, h3 {
     color: #2B2B2B;
 }
@@ -35,10 +39,6 @@ h1, h2, h3 {
 
 </style>
 """, unsafe_allow_html=True)
-
-# =========================
-# TÍTULO PRINCIPAL
-# =========================
 
 # =========================
 # TÍTULO PRINCIPAL
@@ -117,7 +117,7 @@ El crecimiento de:
 - competidores ultra-fast fashion como Shein
 - inflación y presión sobre precios
 
-Obligó a las empresas tradicionales de moda a replantear sus modelos de negocio.
+obligó a las empresas tradicionales de moda a replantear sus modelos de negocio.
 
 Inditex respondió mediante:
 - reducción de tiendas físicas
@@ -140,6 +140,16 @@ fig = px.line(
     title="Evolución de ingresos de Inditex"
 )
 
+fig.update_traces(
+    line=dict(color="#8C5E3C", width=4)
+)
+
+fig.update_layout(
+    plot_bgcolor="#F5F1EB",
+    paper_bgcolor="#F5F1EB",
+    font=dict(color="#2B2B2B")
+)
+
 st.plotly_chart(fig, use_container_width=True)
 
 # =========================
@@ -154,6 +164,16 @@ fig2 = px.line(
     y="Tiendas",
     markers=True,
     title="Número de tiendas a través del tiempo"
+)
+
+fig2.update_traces(
+    line=dict(color="#A67B5B", width=4)
+)
+
+fig2.update_layout(
+    plot_bgcolor="#F5F1EB",
+    paper_bgcolor="#F5F1EB",
+    font=dict(color="#2B2B2B")
 )
 
 st.plotly_chart(fig2, use_container_width=True)
@@ -172,6 +192,16 @@ fig3 = px.line(
     title="Participación de ventas online"
 )
 
+fig3.update_traces(
+    line=dict(color="#6B4F3B", width=4)
+)
+
+fig3.update_layout(
+    plot_bgcolor="#F5F1EB",
+    paper_bgcolor="#F5F1EB",
+    font=dict(color="#2B2B2B")
+)
+
 st.plotly_chart(fig3, use_container_width=True)
 
 # =========================
@@ -186,6 +216,16 @@ fig4 = px.line(
     y="EBITDA",
     markers=True,
     title="Crecimiento del EBITDA"
+)
+
+fig4.update_traces(
+    line=dict(color="#C08A5D", width=4)
+)
+
+fig4.update_layout(
+    plot_bgcolor="#F5F1EB",
+    paper_bgcolor="#F5F1EB",
+    font=dict(color="#2B2B2B")
 )
 
 st.plotly_chart(fig4, use_container_width=True)
